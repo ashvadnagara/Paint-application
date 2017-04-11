@@ -1,0 +1,35 @@
+﻿Build started 4/6/2015 10:12:21 AM.
+     1>Project "C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\wxtemplate\wxtemplate.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\wxtemplate.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\wx3.0.0/include/msvc /IC:\wx3.0.0/include /ZI /nologo /W3 /WX- /Od /Oy- /D WXUSINGDLL /D wxMSVC_VERSION_AUTO /D _UNICODE /D UNICODE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DrawingFrame.cpp DrawingWindow.cpp Ellipse.cpp Fractal.cpp Line.cpp main.cpp Rectangle.cpp Triangle.cpp
+         Triangle.cpp
+         Rectangle.cpp
+         main.cpp
+         Line.cpp
+         Fractal.cpp
+         Ellipse.cpp
+         DrawingWindow.cpp
+         DrawingFrame.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\Debug\wxtemplate.exe" /NOLOGO /LIBPATH:C:\wx3.0.0\lib\vc100_dll kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\wxtemplate.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\Debug\wxtemplate.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\Debug\wxtemplate.lib" /MACHINE:X86 Debug\DrawingFrame.obj
+         Debug\DrawingWindow.obj
+         Debug\Ellipse.obj
+         Debug\Fractal.obj
+         Debug\Line.obj
+         Debug\main.obj
+         Debug\Rectangle.obj
+         Debug\Triangle.obj
+         wxtemplate.vcxproj -> C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\Debug\wxtemplate.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\Debug\wxtemplate.exe;#1" /manifest Debug\wxtemplate.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\wxtemplate.unsuccessfulbuild".
+         Touching "Debug\wxtemplate.lastbuildstate".
+     1>Done Building Project "C:\Users\Aashay\Desktop\PiazzaMatthew_Project2\DrawingVCSoln1\DrawingFa14\wxtemplate\wxtemplate.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:21.80

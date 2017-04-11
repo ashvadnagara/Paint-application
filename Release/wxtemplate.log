@@ -1,0 +1,29 @@
+﻿Build started 4/6/2015 12:00:15 AM.
+     1>Project "C:\Users\Matthew\Downloads\PiazzaMatthew_Project1\DrawingVCSoln1\DrawingFa14\wxtemplate\wxtemplate.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Matthew\Downloads\PiazzaMatthew_Project1\DrawingVCSoln1\DrawingFa14\Release\".
+       InitializeBuildStatus:
+         Creating "Release\wxtemplate.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt DrawingFrame.cpp DrawingWindow.cpp Ellipse.cpp Fractal.cpp Line.cpp main.cpp Rectangle.cpp Triangle.cpp
+         DrawingFrame.cpp
+     1>c:\users\matthew\downloads\piazzamatthew_project1\drawingvcsoln1\drawingfa14\wxtemplate\DrawingFrame.h(15): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         DrawingWindow.cpp
+     1>c:\users\matthew\downloads\piazzamatthew_project1\drawingvcsoln1\drawingfa14\wxtemplate\DrawingWindow.h(15): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         Ellipse.cpp
+     1>Ellipse.cpp(12): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         Fractal.cpp
+     1>Fractal.cpp(12): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         Line.cpp
+     1>Line.cpp(12): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         main.cpp
+     1>main.cpp(12): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         Rectangle.cpp
+     1>Rectangle.cpp(12): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+         Triangle.cpp
+     1>Triangle.cpp(12): fatal error C1083: Cannot open include file: 'wx/wx.h': No such file or directory
+     1>Done Building Project "C:\Users\Matthew\Downloads\PiazzaMatthew_Project1\DrawingVCSoln1\DrawingFa14\wxtemplate\wxtemplate.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.40
